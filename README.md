@@ -1,6 +1,6 @@
-# Meteor Buildpack Horse
+# Meteor Buildpack - Horse Power
 
-[![Horse](https://i.imgur.com/YhIL9zM.jpg)](https://commons.wikimedia.org/wiki/File:Draw-Costa_Rican-2smallest.jpg)
+[![Horse](http://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Animals-PNG/Black_Horse_PNG_Clipart_Picture.png?m=1399672800)](https://commons.wikimedia.org/wiki/File:Draw-Costa_Rican-2smallest.jpg)
 
 A heroku buildpack for Meteor v1+, designed to be as simple and readable as possible.
 
@@ -55,11 +55,10 @@ subdirectories.  Those directories are added to `$PATH` and
 So `$COMPILE_DIR/bin` etc are great places to put any extra binaries or stuff
 if you need to in custom extras.
 
-## Why horse?
+## Why Black Horse?
 
 There are a gazillian forks and branches of various buildpacks remixing the
-words "heroku", "buildpack", and "meteor", many of which are abandoned or
-outdated or broken, and it's really hard to keep them straight.
+words "heroku", "buildpack", and "meteor", many of which are abandoned and broken, and it's really hard to keep them straight.
 
 So this one is the horse one.
 
